@@ -1,0 +1,40 @@
+ [{
+  "id":1,
+  "dogbreed": "Boston Terrier",
+  "behaviour": "Playful, affectionate,fun",
+  "description": "Cheerful and more tolerant of children",
+  "breedcost": 14620,
+  "breedlifetime": "12 years"
+},
+{
+  "id":2,
+  "dogbreed": "Jack Russell Terrier",
+  "behaviour": "Happy, energetic",
+  "description": "Excellent for hunting",
+  "breedcost": 15405,
+  "breedlifetime": "13 years" 
+},
+{
+  "id":3,
+  "dogbreed": "Tibetan Mastiff",
+  "behaviour": "Watchful, aloof",
+  "description": "Hard-working guard",
+  "breedcost": 32485,
+  "breedlifetime": "11 years" 
+},
+{
+  "id":4,
+  "dogbreed": "Goldendoodle",
+  "behaviour": "Intelligent",
+  "description": "Friendly and easy to train, excellent family dogs",
+  "breedcost": 32675,
+  "breedlifetime": "13 years" 
+},
+{
+  "id":5,
+  "dogbreed": "Giant Schnauzer",
+  "behaviour": "very intelligent",
+  "description": "Strong-willed and may become destructive when bored ",
+  "breedcost": 34410,
+  "breedlifetime": "14 years"
+}]
